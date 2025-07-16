@@ -276,19 +276,19 @@ section{
 }
 @keyframes words{
   0%, 20%{
-    content: 'Software Developer';
+    content: 'Angular Developer';
   }
  21%, 40%{
-    content: 'Web Developer';
+    content: 'Web Developer(Angular)';
   }
   41%, 60%{
-    content: 'Backend Developer';
+    content: 'Angular Developer';
   }
   61%, 80%{
-    content: 'Web Designer';
+    content: 'Web Developer(Angular)';
   }
   81%, 100%{
-    content: 'Python Developer';
+    content: 'Angular Developer';
   }
 }
 @keyframes typing {
