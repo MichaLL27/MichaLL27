@@ -425,12 +425,20 @@ span{
   gap: 1rem;
   margin-top: 1rem;
 }
+
 .skills .container .bar .info span{
   font-size: 2rem;
   font-weight: 500;
   margin-left: 0.5rem;
   font-family: "Poppins";
 }
+.skills .container .bar .info img {
+  width: 60px;
+  height: 60px;
+  object-fit: contain;
+}
+
+
 @media screen and (max-width:600px) {
   .skills .container {
     margin: 0;
@@ -454,6 +462,13 @@ span{
 }
 .education .qoute {
   font-size: 1.5rem;
+  text-align: center;
+  font-weight: 600;
+  margin-top: 0.5rem;
+  font-family: "Nunito", sans-serif;
+}
+.education .qoutes {
+  font-size: 2rem;
   text-align: center;
   font-weight: 600;
   margin-top: 0.5rem;
