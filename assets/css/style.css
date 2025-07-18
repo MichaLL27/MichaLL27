@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600&display=swap");
 * {
   margin: 0;
   padding: 0;
@@ -7,12 +7,12 @@
   border: none;
   outline: none;
   scroll-behavior: smooth;
-  font-family: 'Poppins', sans-serif;
+  font-family: "Poppins", sans-serif;
 }
 
 :root {
   --bg-color: #f7f7f7;
-  --second-bg-color:#d6d4d4;
+  --second-bg-color: #d6d4d4;
   --text-color: #000;
   --main-color: #449782;
 }
@@ -76,7 +76,7 @@ html::-webkit-scrollbar-thumb {
   color: var(--main-color);
   border-bottom: 3px solid var(--main-color);
 }
-#menu-icon{
+#menu-icon {
   font-size: 3.6rem;
   color: var(--main-color);
   display: none;
@@ -96,8 +96,8 @@ html::-webkit-scrollbar-thumb {
     border-bottom: 2px solid var(--main-color);
     border-bottom-left-radius: 2rem;
     display: none;
-  } 
-  .navbar.active{
+  }
+  .navbar.active {
     display: block;
   }
   header .navbar ul {
@@ -132,7 +132,7 @@ html::-webkit-scrollbar-thumb {
 
 /* section */
 
-section{
+section {
   min-height: 100vh;
   padding: 2rem 9%;
 }
@@ -173,7 +173,7 @@ section{
   padding-top: 1rem;
   z-index: 1;
 }
-.social-icon a{
+.social-icon a {
   display: inline-flex;
   align-items: center;
   justify-content: center;
@@ -189,7 +189,7 @@ section{
 }
 .social-icon a:hover {
   color: white;
-  transform: scale(1.5)translateY(-5px);
+  transform: scale(1.5) translateY(-5px);
   background-color: var(--main-color);
   filter: drop-shadow(0 0 15px var(--main-color));
 }
@@ -199,7 +199,7 @@ section{
   background-color: var(--main-color);
   font-size: 1.6rem;
   border-radius: 4rem;
-  color: white ;
+  color: white;
   border: 2px solid transparent;
   letter-spacing: 0.1rem;
   font-weight: 600;
@@ -231,7 +231,7 @@ section{
   padding: 1rem 0;
   margin-bottom: 2rem;
 }
-.home .content h3 span{
+.home .content h3 span {
   font-size: 3rem;
   color: rgb(148, 8, 8);
   font-weight: 600;
@@ -255,12 +255,12 @@ section{
   position: relative;
 }
 .home .content h3 .typing-text::before {
-  content: 'Software Developer';
+  content: "Software Developer";
   /* color: var(--main-color); */
   animation: words 20s infinite;
 }
 .home .content h3 .typing-text::after {
-  content: '';
+  content: "";
   background-color: var(--bg-color);
   position: absolute;
   width: calc(100% + 8px);
@@ -274,45 +274,59 @@ section{
     border-left: 2px solid var(--main-color);
   }
 }
-@keyframes words{
-  0%, 20%{
-    content: 'Angular Developer';
+@keyframes words {
+  0%,
+  20% {
+    content: "Angular Developer";
   }
- 21%, 40%{
-    content: 'Web Developer(Angular)';
+  21%,
+  40% {
+    content: "Web Developer(Angular)";
   }
-  41%, 60%{
-    content: 'Angular Developer';
+  41%,
+  60% {
+    content: "Angular Developer";
   }
-  61%, 80%{
-    content: 'Web Developer(Angular)';
+  61%,
+  80% {
+    content: "Web Developer(Angular)";
   }
-  81%, 100%{
-    content: 'Angular Developer';
+  81%,
+  100% {
+    content: "Angular Developer";
   }
 }
 @keyframes typing {
-  10%, 15%,
-  30%, 35%,
-  50%, 55%,
-  70%, 75%,
-  90%, 95% {
+  10%,
+  15%,
+  30%,
+  35%,
+  50%,
+  55%,
+  70%,
+  75%,
+  90%,
+  95% {
     width: 0;
   }
-  5%,20%,
-  25%, 40%,
-  45%, 60%,
-  65%, 80%,
+  5%,
+  20%,
+  25%,
+  40%,
+  45%,
+  60%,
+  65%,
+  80%,
   85% {
     width: calc(100% + 8px);
   }
 }
 
-@media(max-width: 450px) {
+@media (max-width: 450px) {
   .home .content h3 {
     font-size: 2.2rem;
   }
-  .home .content p span{
+  .home .content p span {
     font-size: 2.2rem;
   }
 }
@@ -343,10 +357,10 @@ section{
   text-align: center;
   font-size: 7rem;
 }
-span{
+span {
   color: var(--main-color);
 }
-.about-content h2{
+.about-content h2 {
   text-align: left;
   line-height: 1.5;
 }
@@ -354,11 +368,11 @@ span{
   font-size: 2.6rem;
   color: var(--main-color);
 }
-.about-content p{
+.about-content p {
   font-size: 1.6rem;
   margin: 2rem 0 3rem;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width: 600px) {
   .about .about-img {
     margin-top: 2rem;
   }
@@ -368,7 +382,7 @@ span{
     border: none;
   }
 }
-@media (max-width:895px) {
+@media (max-width: 895px) {
   .about {
     flex-direction: column-reverse;
   }
@@ -380,7 +394,6 @@ span{
     margin-top: 1rem;
     margin-bottom: 3rem;
     border: none;
-
   }
 }
 
@@ -426,7 +439,7 @@ span{
   margin-top: 1rem;
 }
 
-.skills .container .bar .info span{
+.skills .container .bar .info span {
   font-size: 2rem;
   font-weight: 500;
   margin-left: 0.5rem;
@@ -438,8 +451,7 @@ span{
   object-fit: contain;
 }
 
-
-@media screen and (max-width:600px) {
+@media screen and (max-width: 600px) {
   .skills .container {
     margin: 0;
     padding: 0;
@@ -515,7 +527,7 @@ span{
   flex-direction: column;
   padding: 1rem;
   flex-wrap: wrap;
-  flex:  1 1 70rem;
+  flex: 1 1 70rem;
 }
 .education .education-container .education-box .education-content h3 {
   font-size: 2.5rem;
@@ -525,7 +537,7 @@ span{
   text-align: left;
   margin-left: 1rem;
 }
-.education .education-container .education-box .education-content p{
+.education .education-container .education-box .education-content p {
   font-size: 1.5rem;
   margin-left: 1rem;
   text-align: left;
@@ -539,7 +551,7 @@ span{
   color: #012970;
 }
 
-@media screen and (max-width:600px) {
+@media screen and (max-width: 600px) {
   .education .education-container .education-box {
     flex-direction: column;
     width: 100%;
@@ -569,7 +581,7 @@ span{
   margin: 0 auto;
 }
 .experience .timeline::after {
-  content: '';
+  content: "";
   position: absolute;
   width: 6px;
   background: #02094b;
@@ -586,7 +598,7 @@ span{
   width: 50%;
 }
 .experience .container::after {
-  content: '\f0b1';
+  content: "\f0b1";
   position: absolute;
   width: 25px;
   height: 25px;
@@ -600,7 +612,7 @@ span{
   text-align: center;
   font-weight: 600;
   color: #02094b;
-  font-family: "Font Awesome\ 5 Free"
+  font-family: "Font Awesome\ 5 Free";
 }
 .experience .left {
   left: 0;
@@ -609,7 +621,7 @@ span{
   left: 50%;
 }
 .experience .left::before {
-  content: '';
+  content: "";
   height: 0;
   position: absolute;
   top: 22px;
@@ -622,7 +634,7 @@ span{
 }
 
 .experience .right::before {
-  content: '';
+  content: "";
   height: 0;
   position: absolute;
   top: 22px;
@@ -631,7 +643,7 @@ span{
   left: 30px;
   border: medium solid var(--main-color);
   border-width: 10px 10px 10px 0;
-  border-color: transparent var(--main-color) transparent transparent ;
+  border-color: transparent var(--main-color) transparent transparent;
 }
 .experience .right::after {
   left: -16px;
@@ -662,7 +674,7 @@ span{
   cursor: pointer;
   transition: 0.3s;
 }
-@media screen and (max-width:600px) {
+@media screen and (max-width: 600px) {
   .experience .timeline {
     margin-top: 2rem;
   }
@@ -681,7 +693,7 @@ span{
     left: 61px;
     border: medium solid var(--main-color);
     border-width: 10px 10px 10px 0;
-    border-color: transparent var(--main-color) transparent transparent ;
+    border-color: transparent var(--main-color) transparent transparent;
   }
   .experience .left::after {
     left: 15px;
@@ -749,15 +761,15 @@ form i {
 }
 form .field input,
 form .message textarea {
- width: 100%;
- height: 100%;
- outline: none;
- padding: 0 16px 0 48px;
- font-size: 16px;
- border-radius: 5px;
- border: 1px solid rgb(51, 51, 51);
- background: #e5ecfb; 
- font-family: "Poppins", sans-serif;
+  width: 100%;
+  height: 100%;
+  outline: none;
+  padding: 0 16px 0 48px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid rgb(51, 51, 51);
+  background: #e5ecfb;
+  font-family: "Poppins", sans-serif;
 }
 .field input::placeholder,
 .message textarea::placeholder {
@@ -806,7 +818,7 @@ form .button-area {
   left: 8px;
   color: var(--main-color);
 }
-@media (max-width:900px) {
+@media (max-width: 900px) {
   .contact .container {
     margin: 3rem 0 2rem 0;
   }
@@ -850,7 +862,7 @@ form .button-area {
   transition: 0.3s ease-in-out;
 }
 .footer .social a:hover {
-  transform: scale(1.2)translateY(-10px);
+  transform: scale(1.2) translateY(-10px);
   background-color: white;
   color: var(--main-color);
   filter: drop-shadow(0 0 15px #fff);
@@ -882,13 +894,12 @@ footer ul li {
   color: white;
 }
 
-@media(max-width:1200px) {
+@media (max-width: 1200px) {
   html {
     font-size: 55%;
   }
-
 }
-@media(max-width:991px) {
+@media (max-width: 991px) {
   header {
     padding: 2rem 3%;
   }
