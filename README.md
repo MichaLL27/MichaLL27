@@ -48,7 +48,7 @@
 ### 📫 Contact Me
 
 - 📧 Email: lazarashvili2704@gmail.com
-- 🌐 LinkedIn: (https://www.linkedin.com/in/michael-lazarashvili-72075a230/)
+- 🌐 LinkedIn: https://www.linkedin.com/in/michael-lazarashvili-72075a230/
 
 ---
 
