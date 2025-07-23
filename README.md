@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaLL27&theme=tokyonight" alt="tofsona14 streak" />
+  <img src="https://github-readme-streak-stats.demolab.com/?user=MichaLL27&theme=tokyonight" alt="MichaLL27 streak" />
 </p>
 
 ---
