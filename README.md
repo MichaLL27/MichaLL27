@@ -36,11 +36,11 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tofsona14&show_icons=true&theme=tokyonight" alt="tofsona14 stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaLL27&show_icons=true&theme=tokyonight" alt="tofsona14 stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tofsona14&theme=tokyonight" alt="tofsona14 streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MichaLL27&theme=tokyonight" alt="tofsona14 streak" />
 </p>
 
 ---
