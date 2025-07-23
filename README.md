@@ -40,7 +40,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=MichaLL27&theme=tokyonight" alt="MichaLL27 streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MichaLL27&show_icons=true&theme=tokyonight" />
 </p>
 
 ---
