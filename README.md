@@ -20,7 +20,7 @@
 
   ⚡All of those repositories are just for fun. Most of my repositories are private for a simple reason — the code belongs to the companies I worked for, so I can't share it. The public ones you can see are either university tasks or just random experiments I created while trying to build something.
 
-⚡ Fun fact: I started coding at 17 after my brother introduced me to programming!
+- ⚡ Fun fact: I started coding at 17 after my brother introduced me to programming!
 ---
 
 ### 💻 Tech Stack
