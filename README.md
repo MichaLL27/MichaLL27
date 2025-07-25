@@ -9,18 +9,17 @@
 
 ### 👨‍💻 About Me
 
-- 🧠 I’m focusing on **Angular 16+**, **RxJS**, **Reactive Forms**, and scalable architecture
-- 💼 I’ve built real-world features like:
-  - Dynamic forms (multi-step and nested)
-  - State-based data syncing with services and NgRx
-  - Custom validators and reusable form controls
-  - Chart integrations and admin dashboards
-  - Ask me about anything. im basicaly google <3
-  - 📫 How to reach me: tel: +995 555 715 689
+Hi there! I'm **Michael Lazarashvili**, a passionate **Angular Developer** based in **Tbilisi, Georgia** 🇬🇪.  
+I specialize in building clean, efficient, and scalable frontend solutions using **Angular**, **RxJS**, and **TypeScript**.
 
-  ⚡All of those repositories are just for fun. Most of my repositories are private for a simple reason — the code belongs to the companies I worked for, so I can't share it. The public ones you can see are either university tasks or just random experiments I created while trying to build something.
+- 🔭 Currently working at **Socar Energy Georgia** and also available for freelance projects via **Upwork**
+- 🌱 Expanding my backend skills by learning **NestJS**
+- 💡 Curious and solution-driven — ask me anything! I love challenges and approach every project with creativity and energy
+- 📫 Reach me directly: **+995 555 715 689**
+- 🔒 Most of my real-world work is in private repositories due to company policies, but public repos reflect my experiments, practice tasks, and side projects
 
-- ⚡ Fun fact: I started coding at 17 after my brother introduced me to programming!
+💥 **Fun fact**: I started coding at 17 thanks to my brother’s advice — now I can’t imagine doing anything else!
+
 ---
 
 ### 💻 Tech Stack
