@@ -16,7 +16,7 @@ I specialize in building clean, efficient, and scalable frontend solutions using
 - 🌱 Expanding my backend skills by learning **NestJS**
 - 💡 Curious and solution-driven — ask me anything! I love challenges and approach every project with creativity and energy
 - 📫 Reach me directly: **+995 555 715 689**
-- 🔒 Most of my real-world work is in private repositories due to company policies, but public repos reflect my experiments, practice tasks, and side projects
+- 🔒 All of those repositories are just for fun. Most of my repositories are private for a simple reason — the code belongs to the companies I worked for, so I can't share it. The public ones you can see are either university tasks or just random experiments I created   while trying to build something.
 
 💥 **Fun fact**: I started coding at 17 thanks to my brother’s advice — now I can’t imagine doing anything else!
 
