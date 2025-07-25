@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Michael Lazarashvili</h1>
+<h1 align="center">Hi there 👋</h1>
 <h3 align="center">🚀 Passionate Angular Developer from Tbilisi, Georgia</h3>
 
 <p align="center">
