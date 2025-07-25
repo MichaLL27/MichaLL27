@@ -13,7 +13,7 @@ Hi there! I'm **Michael Lazarashvili**, a passionate **Angular Developer** based
 I specialize in building clean, efficient, and scalable frontend solutions using **Angular**, **RxJS**, and **TypeScript**.
 
 - 🔭 Currently working at **Socar Energy Georgia** and also available for freelance projects via **Upwork**
-- 🌱 Expanding my backend skills by learning **NestJS**
+- 🌱 Expanding my backend skills by learning **Express JS**
 - 💡 Curious and solution-driven — ask me anything! I love challenges and approach every project with creativity and energy
 - 📫 Reach me directly: **+995 595 024 131**
 - 🔒 All of those repositories are just for fun. Most of my repositories are private for a simple reason — the code belongs to the companies I worked for, so I can't share it. The public ones you can see are either university tasks or just random experiments I created   while trying to build something.
